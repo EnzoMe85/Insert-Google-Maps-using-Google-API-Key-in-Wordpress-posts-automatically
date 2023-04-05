@@ -27,3 +27,5 @@ Below you will find all the instructions for implementing the function in your w
 1) Add the following code to your active theme's functions.php file (or use the snippets plugin)
 
 2) Replace "YOUR_API_KEY" with your Google Maps API key.
+
+Enjoy this script ;)
