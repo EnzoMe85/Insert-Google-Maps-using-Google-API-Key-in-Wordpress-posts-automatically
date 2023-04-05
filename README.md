@@ -1,6 +1,6 @@
 # Insert-Google-Maps-using-Google-API-Key-in-Wordpress-posts-automatically
 
-read the readme.txt file for all the info and details
+read the readme file for all the info and details
 
 by Enzo Mele
 
